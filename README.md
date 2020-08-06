@@ -1,6 +1,6 @@
 # Virtual_Keyboard
 
-This repository have the project to submit in Better Health Hackathon
+This repository having the project to submit in Better Health Hackathon.
 # Step:1
 Run the range-detector file first to mask the color you want to detect. 
 In below line extra argument passed as " -f HSV -w" because it will use filters from "-f", HSV stands for Hue Saturation Value, and I was masking from webcam so "-w". We can use "-i" for an image.
